@@ -1,0 +1,34 @@
+body{
+    color:black;
+    font-family: Arial; 
+    padding:0 16px;
+    font-size:15px;
+}
+
+.main_header{
+    font-size: 25px;
+}
+
+a{
+    color: gray;
+    margin-right: 16px;
+    text-decoration: none ;
+    font-size: 20px;
+}
+a:active{
+    color: black;
+}
+
+.input{
+    padding: 0 16px;
+    margin-top: 30px ;
+}
+
+.button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(75, 0, 119);
+    
+}
+#message3{
+    color: rgb(60, 0, 109);
+}
